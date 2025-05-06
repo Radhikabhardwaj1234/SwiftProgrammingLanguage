@@ -311,7 +311,7 @@ for i in fruits{
 var keys = Array(fruits.keys);
 print(keys)
 
-//accessing keys
+//accessing values
 
 var values = Array(fruits.values);
 print(values)
